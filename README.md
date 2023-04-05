@@ -16,7 +16,7 @@ Filename: `ps10.biomlike.2-edited-HDF5-metadata.biom`
 
 Are there differences between the microbes on people’s shoes on the East Coast versus the West Coast? Between basketball fan cell phones and football fan cell phones? This study collected 2500 swab samples at sporting events, space meetups, and other public events across the USA to answer these kinds of questions. Microbes were sampled from participants' cell phones and shoes from at these events.
 
-Project Website: https://spacemicrobes.org
+Project Website: https://microbe.net/project-merccuri/
 
 
 Showerhead Microbiome Project
